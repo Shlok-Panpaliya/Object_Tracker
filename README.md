@@ -27,3 +27,8 @@ pip install opencv-python
 ```
 python object_tracker.py
 ```
+### Example Output frame
+
+![Screenshot from 2020-09-21 10-39-02](https://user-images.githubusercontent.com/43007503/93735664-5898e680-fbfb-11ea-8db3-a685a03af8a0.png)
+
+![Screenshot from 2020-09-21 10-40-59](https://user-images.githubusercontent.com/43007503/93735692-71090100-fbfb-11ea-993c-96899eccc33a.png)
