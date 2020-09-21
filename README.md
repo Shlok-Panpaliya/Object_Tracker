@@ -6,6 +6,9 @@ Haar Feature-based Cascade Classifier for Object Detection has been used.
 #### OpenCV Documentation
 https://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html?highlight=detectmultiscale
 
+#### Understanding Haar-Feature based Cascade Classifer
+http://www.willberger.org/cascade-haar-explained/
+
 ### Feature of the app
 - Detects cars and pedestrian with Haar Cascade Classifier in Real time and makes rectangle around detected object.
 
