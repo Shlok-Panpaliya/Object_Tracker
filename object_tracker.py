@@ -33,7 +33,7 @@ while True:
     #print(cars)
     for (x,y,w,h) in cars:
         cv2.rectangle(frame,(x,y),(x+w,y+h),(255,0,0),2)  #Draw rectangle around pedestrians
-        cv2.rectangle(frame,(x,y),(x+w,y+h),(0,0,255),2)
+        
     for (x,y,w,h) in pedestrian:
         cv2.rectangle(frame,(x,y),(x+w,y+h),(0,0,255),2)  #Draw rectangle around pedestrians
         
