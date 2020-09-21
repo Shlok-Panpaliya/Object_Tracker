@@ -1,6 +1,6 @@
 
 # Object_tracker
-A realtime car and pedestrain detection using OpenCV and Python
+A realtime car and pedestrain detection using OpenCV and Python.</br>
 Haar Feature-based Cascade Classifier for Object Detection has been used.
 
 #### OpenCV Documentation
