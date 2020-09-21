@@ -10,19 +10,20 @@ https://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html?hi
 - Detects cars and pedestrian with Haar Cascade Classifier in Real time and makes rectangle around detected object.
 
 ## Initial Setup
-#make a new folder
+##### make a new folder
 ```
 mkdir object_tracker
 ```
-#Setup a virtual enviornment
+##### Setup a virtual enviornment
 ```
 python3 -m venv venv
 ```
-#Install OpenCV
+##### Download the files in the repository
+##### Install OpenCV
 ```
 pip install opencv-python
 ```
-#Running the app
+##### Running the app
 ```
 python object_tracker.py
 ```
