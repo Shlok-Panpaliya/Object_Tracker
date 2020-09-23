@@ -20,6 +20,7 @@ mkdir object_tracker
 ##### Setup a virtual enviornment
 ```
 python3 -m venv venv
+source venv/bin/activate
 ```
 ##### Download the files in the repository
 ##### Install OpenCV
